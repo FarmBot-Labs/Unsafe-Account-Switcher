@@ -1,1 +1,14 @@
-{}
+{
+  "args": [
+    "main.py"
+  ],
+  "author": "Rick Carlino",
+  "description": "A tool for software developers to switch devices between servers in NON-PRODUCTION SETTINGS.",
+  "executable": "python2",
+  "language": "Custom",
+  "min_os_version_major": 6,
+  "package": "unsafe_account_switcher",
+  "url": "https://raw.githubusercontent.com/FarmBot-Labs/Unsafe-Account-Switcher/master/manifest.json",
+  "zip": "https://github.com/FarmBot-Labs/Unsafe-Account-Switcher/archive/master.zip",
+  "version": "0.0.1-a35a0156"
+}
