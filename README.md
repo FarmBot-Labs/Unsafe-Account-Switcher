@@ -13,3 +13,4 @@
 ### CAVEATS
 
  * Not secure. Local development use only! Your password is transmitted over the network in plaintext.
+ * Does not work on FBOS < 6.4.10 because of a hard requirement for crypto.
